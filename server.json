@@ -15,6 +15,14 @@
       "description": "Macarrão com ervas finas colhidas no austrália.",
       "available": false,
       "id": 2
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Molho Tailandês",
+      "price": "29.40",
+      "description": "Macarrão ao molho tailandês",
+      "available": true,
+      "id": 3
     }
   ]
 }

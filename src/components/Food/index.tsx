@@ -89,5 +89,3 @@ export function Food({ food, handleDelete, handleEditFood }: FoodComponentProps)
     </Container>
   );
 }
-
-// export default Food;
